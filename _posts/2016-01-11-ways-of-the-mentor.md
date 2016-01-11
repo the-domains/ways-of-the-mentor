@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-11T03:05:15.487Z'
-dateModified: '2016-01-11T03:05:06.681Z'
+datePublished: '2016-01-11T03:13:27.128Z'
+dateModified: '2016-01-11T03:13:19.269Z'
 title: Ways of the Mentor
 author: []
 sourcePath: _posts/2016-01-11-ways-of-the-mentor.md
@@ -44,23 +44,23 @@ Mentor
 With a particular focus on mentoring in
 cross-cultural environments, this one-day workshop explores:
 
-Getting started
+_- Getting started_
 
-The mentoring process
+_- The mentoring process_
 
-Mentoring plans
+_- Mentoring plans_
 
-Getting there -- the Ways of The Mentor Toolbox
+_- Getting there; the Ways of The Mentor Toolbox_
 
-Know yourself
+_- Know yourself_
 
-Sharing
+_- Sharing_
 
-Challenging
+_- Challenging_
 
-Cultural competency
+_- Cultural competency_
 
-Mentoring for emotional intelligence
+_- Mentoring for emotional intelligence_
 
 The workshop combines brief lectures with
 structured interactions to allow participants to practice and refine specific
