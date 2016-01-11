@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T03:03:30.907Z'
-dateModified: '2016-01-11T03:00:54.705Z'
+datePublished: '2016-01-11T03:05:15.487Z'
+dateModified: '2016-01-11T03:05:06.681Z'
 title: Ways of the Mentor
 author: []
+sourcePath: _posts/2016-01-11-ways-of-the-mentor.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-11-ways-of-the-mentor.md
-published: true
 url: ways-of-the-mentor/index.html
 _type: Article
 
 ---
 Ways of the Mentor was launched in February
-2013 by Mulga Gidgee. Workshops have now been held in Darwin and Arnhem Land NT, with
+2013 by [Mulga Gidgee][0]. Workshops have now been held in Darwin and Arnhem Land NT, with
 participants from CDEP, Childcare Facilities, Councils, Indigenous
 corporations, government departments, charities and schools. 
 > 
@@ -69,7 +69,8 @@ strengths and weaknesses, interact with other mentors, and develop specific,
 core competencies for effective mentoring.
 
 Mulga Gidgee also happily hosts the [NT
-Employment Mentors Network][0]
+Employment Mentors Network][1]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d19957c5-4249-446e-b572-8211bd0a4a94.jpg)
 
-[0]: www.mentornt.net.au
+[0]: www.mulgagidgee.com.au
+[1]: www.mentornt.net.au
