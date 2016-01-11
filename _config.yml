@@ -1,0 +1,28 @@
+name: Ways of the Mentor
+favicon: null
+layout_spectrum: 0.576371454866603
+typography_spectrum: 0.1845355718396604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9775598102714866
+  lightness: 0.9015520736575127
+  saturation: 0.30106287146918476
+  rhythmicContrast: 0.4459941026289016
+purpose: []
