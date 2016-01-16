@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-11T03:13:27.128Z'
-dateModified: '2016-01-11T03:13:19.269Z'
+datePublished: '2016-01-16T06:07:41.422Z'
+dateModified: '2016-01-16T06:07:27.419Z'
 title: Ways of the Mentor
 author: []
 sourcePath: _posts/2016-01-11-ways-of-the-mentor.md
